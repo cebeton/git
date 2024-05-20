@@ -3,5 +3,5 @@
 for numeracao in $(seq 10); do
 	echo "Número: $numeracao"
 	echo "tchau tchau!"
-	time 4
+	time 3
 done
