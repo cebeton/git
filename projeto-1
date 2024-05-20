@@ -1,0 +1,7 @@
+#!/bin/bash
+#criação do projeto 01
+for numeracao in $(seq 10); do
+	echo "Número: $numeracao"
+	echo "tchau tchau!"
+	time 5
+done
