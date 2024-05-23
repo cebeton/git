@@ -5,4 +5,4 @@ for numeracao in $(seq 10); do
 	sleep 1
 done
 	echo "tchau tchau!"
-	sleep 3
+	sleep 4 
